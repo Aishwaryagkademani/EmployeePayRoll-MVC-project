@@ -1,0 +1,16 @@
+﻿/*Appling for whole Website*/
+body {
+    color: white;
+    background-image: linear-gradient(150deg, #090979,#cd4284);
+}
+table{
+    color: white;
+    align-self: center;
+}
+
+/*header part*/
+.header {
+    color: white;
+    background-image: linear-gradient(150deg, #090979,#cd4284);
+}
+

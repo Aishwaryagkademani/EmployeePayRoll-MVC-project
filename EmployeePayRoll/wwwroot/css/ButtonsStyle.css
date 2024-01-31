@@ -1,0 +1,70 @@
+﻿@import url('buttonsstyle.css');
+.details {
+    background-color: limegreen;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.edit {
+    background-color: #3498db;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.delete {
+    background-color: red;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.BackToList {
+    background-color: #ff6a00;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.create{
+    background-color: #2c738a;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+ .create:hover {
+        color: wheat;
+        background-color: #398aa4
+ }
+
+
+.edit:hover {
+    color: wheat;
+}
+
+ .delete:hover {
+        color: wheat;
+        background-color: #eb0606
+ }
+
+.details:hover {
+    color: wheat;
+    background-color: #2fba2f
+}
+
+.BackToList:hover {
+    color: wheat;
+    background-color: #e46103
+}
