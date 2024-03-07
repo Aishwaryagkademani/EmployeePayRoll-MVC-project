@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iYhe7fbwtuCiOIIFQoP1xJclgYsaj6pTh2y6oVFDc5E=",
+  "Hash": "b/TnqfVq686yZd6NXlVodTs27rjQDNo+hruYcS8gL3M=",
   "Source": "EmployeePayRoll",
   "BasePath": "_content/EmployeePayRoll",
   "Mode": "Default",
@@ -205,6 +205,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\EmployeePayRoll\\EmployeePayRoll\\wwwroot\\js\\CustomForModelPopup.js",
+      "SourceId": "EmployeePayRoll",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\EmployeePayRoll\\EmployeePayRoll\\wwwroot\\",
+      "BasePath": "_content/EmployeePayRoll",
+      "RelativePath": "js/CustomForModelPopup.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\CustomForModelPopup.js"
     },
     {
       "Identity": "C:\\Users\\HP\\source\\repos\\EmployeePayRoll\\EmployeePayRoll\\wwwroot\\js\\site.js",

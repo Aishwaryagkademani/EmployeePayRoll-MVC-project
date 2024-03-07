@@ -167,14 +167,14 @@ namespace EmployeePayRoll.Controllers
 
 
 
-        [HttpGet]
-        [Route("Name/{Name}")]
-        public IActionResult GetAllEMpByName(String Name)
-        {
-            List<EmployeeEntity> res = _employeeBusiness.GetEmpByName(Name).ToList();
+        //[HttpGet]
+        //[Route("Name/{Name}")]
+        //public IActionResult GetAllEMpByName(String Name)
+        //{
+        //    List<EmployeeEntity> res = _employeeBusiness.GetEmpByName(Name).ToList();
 
-            return View(res);
-        }
+        //    return View(res);
+        //}
 
         [HttpGet]
         [Route("Search/{search}")]

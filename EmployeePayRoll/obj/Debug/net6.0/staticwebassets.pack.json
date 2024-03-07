@@ -37,6 +37,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\HP\\source\\repos\\EmployeePayRoll\\EmployeePayRoll\\wwwroot\\js\\CustomForModelPopup.js",
+      "PackagePath": "staticwebassets\\js\\CustomForModelPopup.js"
+    },
+    {
       "Id": "C:\\Users\\HP\\source\\repos\\EmployeePayRoll\\EmployeePayRoll\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

@@ -252,3 +252,4 @@ C:\Users\HP\source\repos\EmployeePayRoll\EmployeePayRoll\bin\Debug\net6.0\ModelL
 C:\Users\HP\source\repos\EmployeePayRoll\EmployeePayRoll\bin\Debug\net6.0\RepositoryLayer.pdb
 C:\Users\HP\source\repos\EmployeePayRoll\EmployeePayRoll\obj\Debug\net6.0\EmployeePayRoll.csproj.AssemblyReference.cache
 C:\Users\HP\source\repos\EmployeePayRoll\EmployeePayRoll\obj\Debug\net6.0\EmployeePayRoll.csproj.CopyComplete
+C:\Users\HP\source\repos\EmployeePayRoll\EmployeePayRoll\obj\Debug\net6.0\EmployeePayRoll.sourcelink.json
